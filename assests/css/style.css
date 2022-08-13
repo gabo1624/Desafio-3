@@ -1,0 +1,40 @@
+header{
+    background-color: black;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+.menu2{
+    background-color: rgb(46, 45, 45);
+    display: inline-block;
+
+}
+
+.menu2 h1{
+    color: white;
+
+}
+
+.menu2 li{
+    width: 100%;
+    margin: 20px;
+    color: white;
+}
+
+.menu3{
+    background-color: black;
+    margin: 0px;
+}
+
+.menu3 li {
+    display: inline-block;
+    width: 30%;
+    margin: 20px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
